@@ -1,0 +1,19 @@
+.navbar {
+    
+        display: flex;
+        justify-content: center;
+        text-transform: uppercase;
+        border-bottom: 2px solid #2f2f2f;
+        border-top: 2px solid #2f2f2f;
+        padding-bottom: 30px;
+}
+
+.body {
+    background-color: rgb(142, 219, 142);
+    height: 100vh;
+}
+
+.card {
+    width: 75%;
+}
+
